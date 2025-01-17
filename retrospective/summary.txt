@@ -1,0 +1,8 @@
+Merge Conflict Resolution:
+The merge conflict was caused because both the "Working" and "Test" branches modified the README.md file. 
+To resolve it, I manually selected the correct changes from both branches and merged them, keeping the most relevant content.
+
+Changes Made in Part C:
+- Changed the title of first.html  title to "I Miss the show".
+- Changed the title of Second.html  title to "I hate the  show".
+- Changed the title of Third.html  title to "The show is great ".
